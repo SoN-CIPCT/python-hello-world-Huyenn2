@@ -1,3 +1,2 @@
 # Write python code which displays 'Hello World' to the screen when called
-message = "Hello World!"
-print(message)
+print ("hello world")
